@@ -71,6 +71,4 @@ git add . && git commit -m "cambios" && git push && npm run deploy
 
 - Para visualizar el proyecto
 
-```bash
-https://mansolism.github.io/Calendario_Nopal/
-```
+[Presiona aqui para ingresar]https://mansolism.github.io/Calendario_Nopal/
